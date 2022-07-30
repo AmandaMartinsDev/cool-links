@@ -42,8 +42,11 @@ p {
   margin: 0.5rem;
   padding: 0.8rem 1rem;
 }
-.social-link:hover {
+.fab{
+  width: 25px;
+}
+/* .social-link:hover {
   background-color: var(--light-blue);
   cursor: pointer;
   transition: 0.3s;
-}
+} */
